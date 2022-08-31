@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\bin\Debug\UserLoginPage.exe.config
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\bin\Debug\UserLoginPage.exe
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\bin\Debug\UserLoginPage.pdb
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.Form1.resources
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.Properties.Resources.resources
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.exe
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.pdb
+C:\Users\Asus\source\repos\UserLoginPage\UserLoginPage\obj\Debug\UserLoginPage.SignUpPortal.resources
